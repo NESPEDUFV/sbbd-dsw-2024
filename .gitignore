@@ -1,0 +1,8 @@
+venv/
+*.pyc
+*.pc
+*.pyc
+*.pyo
+__pycache__
+**/__pycache__
+*.graphml
