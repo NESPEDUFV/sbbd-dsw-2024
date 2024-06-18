@@ -12,9 +12,9 @@ pip install -r requirements.txt
 ```
 
 > ## 2. Abra o arquivo ```Exemplo de uso.ipynb``` (Dica para o VSCode)
-    > - Clique em ```Select kernel```
-    > - Clique em ```Python Enviroments...```
-    > - Selecione: ```venv/bin/python3```
+> - Clique em ```Select kernel```
+> - Clique em ```Python Enviroments...```
+> - Selecione: ```venv/bin/python3```
 
 > ## 3. Extraia os arquivos ```*.7z``` localizados na pasta ```data```
 
