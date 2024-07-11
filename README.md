@@ -1,4 +1,4 @@
-# Repositório do projeto ```SBBD-DSW 2024```: [https://github.com/viniig1709/sbbd-dsw-2024](https://github.com/viniig1709/sbbd-dsw-2024)
+# Repositório do projeto ```SBBD-DSW 2024```: [https://github.com/NESPEDUFV/sbbd-dsw-2024](https://github.com/NESPEDUFV/sbbd-dsw-2024)
 
 # Dicas para manipular os _datasets_
 
