@@ -19,3 +19,5 @@ pip install -r requirements.txt
 > ## 3. Extraia os arquivos ```*.7z``` localizados na pasta ```data```
 
 > ## 4. Execute as células do arquivo ```Exemplo de uso.ipynb```
+
+> ## 5. (Opcional) Caso seja necessário construir as rotas de ônibus através dos vértices enriquecidos, o arquivo ```data/linhas_de_onibus_sp_curitiba.csv``` conta com as linhas de ônibus das duas cidades, já mapeadas para os IDs dos vértices dos grafos.
